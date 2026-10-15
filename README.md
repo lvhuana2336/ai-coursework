@@ -13,21 +13,24 @@
 
 ## 截图
 
+<!-- 图片走 gh-proxy.com 镜像加载：raw.githubusercontent.com 在国内多数网络下不可达。
+     若镜像失效，把 4 个 src 换回相对路径（gobang/screenshot.png 这类）即可。 -->
+
 五子棋 · 人机对战进行中
 
-![五子棋对局](gobang/screenshot.png)
+![五子棋对局](https://gh-proxy.com/https://raw.githubusercontent.com/lvhuana2336/ai-coursework/main/gobang/screenshot.png)
 
 五子棋 · 黑棋五连获胜（获胜连线高亮 + 结果面板）
 
-![五子棋获胜](gobang/screenshot-win.png)
+![五子棋获胜](https://gh-proxy.com/https://raw.githubusercontent.com/lvhuana2336/ai-coursework/main/gobang/screenshot-win.png)
 
 贪吃蛇 · 主菜单
 
-![贪吃蛇主菜单](snake/screenshot-menu.png)
+![贪吃蛇主菜单](https://gh-proxy.com/https://raw.githubusercontent.com/lvhuana2336/ai-coursework/main/snake/screenshot-menu.png)
 
 贪吃蛇 · 对局中（分数 6、速度 8.9，含随机墙体与敌对生物）
 
-![贪吃蛇对局](snake/screenshot.png)
+![贪吃蛇对局](https://gh-proxy.com/https://raw.githubusercontent.com/lvhuana2336/ai-coursework/main/snake/screenshot.png)
 
 ## 运行
 
