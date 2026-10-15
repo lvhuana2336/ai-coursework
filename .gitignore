@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# 贪吃蛇运行时会生成在脚本同目录下
+snake/snake_history.json
+
+# 编辑器
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
